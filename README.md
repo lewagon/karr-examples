@@ -9,3 +9,8 @@ This project links to all the examples presented in [Karr](http://karr.lewagon.o
 ## Data Modeling & ORM
 
 * [ActiveRecord Advanced](https://github.com/lewagon/karr-examples-db-04)
+
+## Front-End
+
+* [Bootstrap mockup](https://github.com/lewagon/karr-examples-db-04)
+
