@@ -12,5 +12,4 @@ This project links to all the examples presented in [Karr](http://karr.lewagon.o
 
 ## Front-End
 
-* [Bootstrap mockup](https://github.com/lewagon/karr-examples-db-04)
-
+* [Bootstrap mockup](https://github.com/lewagon/karr-examples-frontend-03)
