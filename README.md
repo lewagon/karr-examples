@@ -13,3 +13,4 @@ This project links to all the examples presented in [Karr](http://karr.lewagon.o
 ## Front-End
 
 * [Bootstrap mockup](https://github.com/lewagon/karr-examples-frontend-02/tree/bootstrap-mockup)
+* [Bootstrap over-ride](https://github.com/lewagon/karr-examples-frontend-02/tree/bootstrap-override)
