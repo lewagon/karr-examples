@@ -14,3 +14,7 @@ This project links to all the examples presented in [Karr](http://karr.lewagon.o
 
 * [Bootstrap mockup](https://github.com/lewagon/karr-examples-frontend-02/tree/bootstrap-mockup)
 * [Bootstrap over-ride](https://github.com/lewagon/karr-examples-frontend-02/tree/bootstrap-override)
+
+## Ruby on Rails
+
+* [Authentication](https://github.com/lewagon/karr-example-rails-07/)
