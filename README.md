@@ -15,8 +15,8 @@
 
 ## Data Modeling & ORM
 
-* [ActiveRecord Basics](https://github.com/lewagon/active-record-basics)
-* [ActiveRecord Advanced](https://github.com/lewagon/active-record-advanced)
+* [ActiveRecord Basics - boilerplate](https://github.com/lewagon/active-record-basics)
+* [ActiveRecord Advanced - boilerplate](https://github.com/lewagon/active-record-advanced)
 
 ## Front-End
 
