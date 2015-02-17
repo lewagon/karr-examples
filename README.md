@@ -20,8 +20,8 @@
 
 ## Front-End
 
-* Prototyping - Bootstrap [boilerplate](https://github.com/lewagon/bootstrap-boilerplate) and [demo page](https://github.com/lewagon/bootstrap-challenges/tree/master/04-bootstrap-mockup-v2)
-* [Front-End advanced - Middleman] boilerplate](https://github.com/lewagon/middleman-boilerplate) and [demo website](https://github.com/lewagon/stylus)
+* Prototyping - Bootstrap [starting boilerplate](https://github.com/lewagon/bootstrap-boilerplate) and [final page](https://github.com/lewagon/bootstrap-challenges/tree/master/04-bootstrap-mockup-v2)
+* Front-End advanced - Middleman [starting boilerplate](https://github.com/lewagon/middleman-boilerplate) and [final website](https://github.com/lewagon/stylus)
 
 ## Ruby on Rails
 
