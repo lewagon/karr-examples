@@ -4,7 +4,7 @@ This project links to all the examples presented in [Karr](http://karr.lewagon.o
 
 ## Ruby 
 
-* [Parsing and storing data](https://github.com/lewagon/ruby-scraping)
+* [Parsing and storing data - scraping scripts](https://github.com/lewagon/ruby-scraping)
 
 ## Object Oriented Programming
 
