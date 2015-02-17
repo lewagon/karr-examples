@@ -20,14 +20,14 @@
 
 ## Front-End
 
-* [Prototyping - Bootstrap boilerplate](https://github.com/lewagon/bootstrap-boilerplate) and [Prototyping - Bootstrap demo](https://github.com/lewagon/bootstrap-challenges/tree/master/04-bootstrap-mockup-v2)
-* [Front-End advanced - Middleman boilerplate]() and [Front-End advanced - Middleman demo](https://github.com/lewagon/stylus)
+* Prototyping - Bootstrap [boilerplate](https://github.com/lewagon/bootstrap-boilerplate) and [demo page](https://github.com/lewagon/bootstrap-challenges/tree/master/04-bootstrap-mockup-v2)
+* [Front-End advanced - Middleman] boilerplate](https://github.com/lewagon/middleman-boilerplate) and [demo website](https://github.com/lewagon/stylus)
 
 ## Ruby on Rails
 
 ### First week
 
-* [Rails Advanced (2) Frontend setup - stylesheets](https://github.com/lewagon/rails-stylesheets)
+* [Rails stylesheets](https://github.com/lewagon/rails-stylesheets)
 
 ### Second week
 
