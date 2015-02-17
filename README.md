@@ -1,6 +1,8 @@
 # Le Wagon Examples
 
-This project links to all the examples presented in [Karr](http://karr.lewagon.org) lectures, as well as some corrections for complicated challenges in [Kitt](http://kitt.lewagon.org).
+- This project links to all the examples presented in [Karr](http://karr.lewagon.org) lectures, as well as some corrections for complicated challenges in [Kitt](http://kitt.lewagon.org).
+
+- Feel free to enhance or correct any of these repo with pull-requests. They are here to live and evolve!
 
 ## Ruby 
 
