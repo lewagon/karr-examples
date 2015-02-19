@@ -31,9 +31,9 @@
 
 ### Second week
 
-* Authentication [starting boilerplate](https://github.com/lewagon/rails-authentication) and [final app](https://github.com/lewagon/rails-authentication/tree/devise)
-* Facebook connect [starting boilerplate](https://github.com/lewagon/rails-authentication/tree/devise) and [final app](https://github.com/lewagon/rails-authentication/tree/fb-connect)
-* SMTP & Mandrill [starting boilerplate](https://github.com/lewagon/rails-mailing) and [final app](https://github.com/lewagon/rails-mailing/tree/mailing)
+* Authentication [starting boilerplate](https://github.com/lewagon/rails-boilerplates) and [final app](https://github.com/lewagon/rails-boilerplates/tree/devise)
+* Facebook connect [starting boilerplate](https://github.com/lewagon/rails-boilerplates/tree/devise) and [final app](https://github.com/lewagon/rails-boilerplates/tree/fb-connect)
+* SMTP & Mandrill [starting boilerplate](https://github.com/lewagon/rails-boilerplates/tree/devise) and [final app](https://github.com/lewagon/rails-boilerplates/tree/mailing)
 * [Geocoding and Gmaps](https://github.com/lewagon/rails-google-maps)
 * [Active Admin](https://github.com/lewagon/rails-active-admin)
 
