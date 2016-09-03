@@ -11,7 +11,6 @@
 ## Object Oriented Programming
 
 * [Building Software](https://github.com/lewagon/oop-todolist)
-* [Modeling data (correction of Kitt / Food-Delivery challenge)](https://github.com/lewagon/oop-food-delivery)
 
 ## Data Modeling & ORM
 
